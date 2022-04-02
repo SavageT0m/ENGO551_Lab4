@@ -1,0 +1,24 @@
+#map_properties { 
+height: 60%; 
+width:  40%; 
+position: absolute;
+  right: 175;
+  bottom: 100;
+  border-style: solid;
+}
+
+#text-box{
+    padding: 100px 12px;
+    text-align: center;
+}
+
+        
+#small-heading{
+    position: absolute;
+    left: 450;
+    top: 350;
+    
+}
+
+    
+     
